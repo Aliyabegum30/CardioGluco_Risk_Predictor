@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+.venv
+venv/
+node_modules/
+
+# Jupyter junk
+*.ipynb_checkpoints
+
+# OS junk
+.DS_Store
+
+# Large files (optional)
+*.pkl
